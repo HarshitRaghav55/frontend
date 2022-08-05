@@ -28,7 +28,7 @@ const Signup = ()=> {
     }
     else{
       console.log("signup succesfull");
-      navigate("/login")
+      navigate("/dashboard")
     }
 
   }
